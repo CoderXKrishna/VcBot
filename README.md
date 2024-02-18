@@ -1,1 +1,1 @@
-# VcBot
+# VCBOT files of [Arank](https://github.com/CoderXKrishna/Arank)
